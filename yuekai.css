@@ -1,0 +1,197 @@
+/* CSS file for Yuekai's jemdoc customizations. */
+
+
+
+
+body {
+  font-family: Arial;
+%Trebuchet MS, sans-serif;
+
+  color: #222333;
+  font-size: 14px;
+  line-height: 1.5em;
+  margin: 0 auto;
+  padding-bottom: 0.5em;
+  width: 900px;
+
+}
+
+h1, h2, h3 {
+	margin-top: 0.75em;
+  margin-bottom: 1.5em;
+	margin-bottom: 0.25em;
+	padding-bottom: 0.25em;
+	line-height: 1.0em;
+	padding-top: 0.5em;
+}
+
+h1 {
+  font-size: 165%; 
+  line-height: 1em;
+}
+ 
+h2 {
+  font-size: 135%;
+  line-height: 1.2em; 
+  padding-top: 0;
+}
+ 
+h3 {
+  font-size: 110%; 
+  line-height: 1.333em; 
+}
+
+h2 + h3 {
+  padding-top: 0.25em;
+}
+
+#layout-content {
+	padding-left: 1.5em;
+	padding-right: 0
+  width: 600px;
+}
+
+#layout-menu {
+	background: #f6f6f6;
+	font-size: 125%;
+	border: 1px solid #c0c0c0;
+  width: 150px;
+}
+
+pre, tt {
+	font-size: 100%;
+}
+
+a, a > tt {
+	color: #305080;
+}
+a:hover {
+	border-bottom: 1px #305080 dotted;
+}
+
+div.menu-category {
+	margin-top: 0.5em;
+	padding-top: 0;
+	padding-bottom: 0.125em;
+	font-weight: bold;
+}
+
+div#toptitle {
+	padding-top: 0.5em;
+  padding-bottom: 0.25em;
+	border-bottom: 3px double grey;
+}
+
+div#toptitle h1, #layout-content div#toptitle h1 {
+	padding-bottom: 0.125em;
+}
+
+div#toptitle + h2, div#toptitle + h3 {
+	margin-top: -0.75em;
+}
+
+div#subtitle {
+	padding-bottom: 0.125em;
+}
+
+h1, h2, h3, #layout-menu a.current:link, #layout-menu a.current:visited {
+	color: #203060;
+}
+
+h1, h2, h3 {
+	border-bottom: 1px solid #c0c0c0;
+}
+
+div#footer {
+	border-top: 1px solid #c0c0c0;
+	color: #c0c0c0;
+	padding-top: 0.125em;
+	margin-top: 2.0em;
+}
+
+p {
+	margin-top: 0.0em;
+	margin-bottom: 0.5em;
+	font-size: 1em;
+  line-height: 1.25em;
+}
+ 
+p+p {
+  text-indent: 1em;
+  margin-top: -0.5em;
+}
+
+ul, ol, dl {
+	margin-top: 0;
+	margin-bottom: 0.5em;
+  padding-left: 1.5em;
+}
+
+dt {
+	margin-top: 0.125em;
+	margin-bottom: 0;
+}
+
+p + ul, p + ol {
+	margin-top: 0;
+}
+
+li ul, li ol {
+	margin-top: 0;
+}
+
+li p, dd p {
+	margin-bottom: 0;
+}
+
+ul ul,
+ol ol {
+  margin: 0;
+}
+
+div.blocktitle {
+	color: #203070;
+}
+
+div.blockcontent {
+	border: 1px solid #c0c0c0;
+}
+
+table {
+  border-left: none;
+  border-right: none;
+}
+
+td {
+  padding: 0.25em;
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: left;
+  border: none;
+}
+table.imgtable tr{
+  border: none;
+}
+td.c1 {
+  border-right: 1px solid gray;
+  text-align: right;
+}
+
+h1 + table, h2 + table, h3 + table, table + table, table + p  {
+  margin-top: 0.5em;
+}
+
+tr {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+tr.heading {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+
+    .img-circle {
+        border-radius: 50%;
+    }

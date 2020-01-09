@@ -1,0 +1,5 @@
+jinglai li
+    home                [index.html]
+    group            [group.html]
+    publications    [publications.html]
+    teaching             [teaching.html]
