@@ -1,0 +1,202 @@
+# jemdoc: addcss{ljl.css}, menu{menu.txt}{publications.html}, notime
+= publications
+
+#=== preprints
+
+some relatively recent papers
+(a full list is [https://research.birmingham.ac.uk/portal/en/persons/jinglai-li(77504a50-eaa2-4c43-8010-6faf72f14eb9)/publications.html here]):
+\n
+\n
+ 
+ -  [http://arxiv.org/abs/2103.06315 Affine-mapping based variational ensemble Kalman filter] \n
+ L. Wen and J. Li, \n
+ /arXiv preprint/.
+ 
+ #-  [https://arxiv.org/abs/2101.00057 Clustered active-subspace based local Gaussian Process emulator for high-dimensional and complex computer models] #\n
+ #J. Xiong, X. Cai and J. Li, \n
+ #/arXiv preprint/.
+
+- [https://arxiv.org/abs/2012.08848 Ensemble Kalman filter based Sequential Monte Carlo Sampler for sequential Bayesian inference] \n
+J. Wu, L. Wen, P. L. Green,  J. Li and S. Maskell,\n
+/arXiv preprint/.
+
+ #- [https://arxiv.org/abs/2004.12838 Increasing the efficiency of Sequential Monte Carlo samplers through the use of approximately optimal L-kernels]\n
+#P. L. Green, R. E Moore, R. J Jackson, J. Li and S. Maskell,\n
+#/arXiv preprint/.
+
+ -  [https://arxiv.org/abs/2102.10583  Inverse Gaussian Process regression for likelihood-free inference] \n
+ H. Wang, T. Yu, Z. Ao and J. Li, \n
+ /arXiv preprint/.
+
+ -  [http://arxiv.org/abs/1910.05275 Maximum conditional entropy  Hamiltonian Monte Carlo sampler] \n
+ T. Yu, H. Wang and J. Li, \n
+/SIAM Journal on Scientific Computing/, to appear.
+ 
+-  [https://doi.org/10.1039/D1SM00033K Ordering leads to multiple fast tracks in simulated collective escape of human crowds] \n
+C. Cheng, J. Li and Z. Yao, \n
+/Soft Matter/ 17 (2021). 
+ 
+ # -  [https://arxiv.org/abs/2101.00057 Control variates  with dimension reduced Bayesian Monte Carlo sampler] \n
+ # X. Cai, J. Xiong and J. Li, \n
+#/International Journal for Uncertainty Quantification/, to appear.
+ 
+ #- [https://arxiv.org/abs/1906.08018  Bayesian inverse regression for dimension reduction with small datasets] \n
+#X. Cai, G. Lin and J. Li, \n
+ #/Journal of Statistical Computation and Simulation/, to appear.
+ 
+#  - [https://doi.org/10.1007/978-3-030-64580-9_30  Bayesian optimization with local search]\n
+#  Y. Gao, T. Yu and J. Li, \n
+#/Lecture Notes in Computer Sciences/ (LOD 2020), in press. 
+#/Proceedings of the 6th International Conference on Machine Learning, Optimization and Data Science (LOD 2020)/.
+
+ - [http://proceedings.mlr.press/v108/ao20a.html An approximate KLD based experimental design for models with intractable likelihoods] \n
+Z. Ao and J. Li, \n
+/Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020)/.
+#/Proceedings of Machine Learning Research/ 108 (AISTATS 2020).
+
+-  [https://doi.org/10.1137/19M1237430 A
+defensive marginal particle filter for data assimilation] \n
+L. Wen, J. Wu, L. Lu and J. Li, \n
+/SIAM\/ASA Journal on Uncertainty Quantification/ 8 (2020).
+#
+
+
+- [https://doi.org/10.1137/19M1248352 Bayesian inference and uncertainty quantification for  image reconstruction
+ with Poisson data]\n
+ Q. Zhou, T. Yu, X. Zhang and J. Li, \n
+ /SIAM Journal on Imaging Sciences/ 13 (2020).
+ #
+
+
+#-  [http://dx.doi.org/10.3934/ipi.2019066  Nonlocal TV Gaussian  prior for Bayesian inverse problems with applications to Limited CT #Reconstruction] \n
+ #D. Lv, . Q. Zhou, J. Choi, J. Li and  X. Zhang,\n
+ #/Inverse Problems and Imaging/ 14 (2020).
+
+- [https://doi.org/10.1016/j.jcp.2019.06.059  An adaptive reduced basis ANOVA method for high dimensional Bayesian inverse problems] \n
+Q. Liao and J. Li, \n
+ /Journal of Computational Physics/ 396 (2019).
+
+#- [https://doi.org/10.1615/Int.J.UncertaintyQuantification.2019029511 A weight bounded importance sampling method for variance reduction] \n
+# T. Yu, L. Lu and J. Li, \n
+# /International Journal for Uncertainty Quantification/ 9 (2019).
+ 
+#-  [https://doi.org/10.4208/cicp.OA-2018-0140 A two fold structural classification method for determining the accurate ensemble of protein structures  ] \n
+# P. Tan, Z. Fu, L. Petridis, S. Qian,  J. Li and L. Hong,\n
+ #/Communications in Computational Physics/ 25 (2019).
+   
+-  [https://dx.doi.org/10.1103/PhysRevLett.120.248101 Gradual cross over from sub diffusion to normal diffusion: a many body volume exclusion effect of protein surface water] \n
+  P. Tan, Y. Liang,  Q. Xu,  E. Mamontov, J. Li, X. Xing and L. Hong, \n
+  /Physical Review Letters/ 120 (2018).
+
+- [https://doi.org/10.1088/1361-6420/aac287 An approximate empirical Bayesian method for large scale linear Gaussian
+ inverse problems] \n
+ Q. Zhou,  W. Liu, J. Li and Y. M. Marzouk, \n
+ /Inverse Problems/ 34 (2018).
+
+-  [https://dx.doi.org/10.1162/neco_a_01127  Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions] \n
+H. Wang and J. Li, \n
+/Neural Computation/ 30 (2018). 
+
+-  [https://dx.doi.org/10.1137/15M1021751  An adaptive independence sampler MCMC algorithm for Bayesian inferences of functions] \n
+Z. Feng and J. Li, \n
+/SIAM Journal on Scientific Computing/ 40 (2018). 
+
+-  [https://doi.org/10.1016/j.jcp.2017.04.051 A subset multicanonical Monte Carlo method for rare 
+ failure probability estimation] \n
+ X. Chen and J. Li, \n
+/Journal of Computational Physics/ 344 (2017). 
+ 
+ - [https://doi.org/10.1137/16M1082950 A hybrid adaptive MCMC algorithm in function spaces] \n
+  Q. Zhou, Z. Hu, Z. Yao and J. Li, \n
+/SIAM\/ASA Journal on Uncertainty Quantification/ 5 (2017). 
+
+- [https://doi.org/10.1007/s00158-016-1587-y  A derivative free trust region method for reliability based optimizations] \n
+ T. Gao and J. Li, \n
+/Structural and Multidisciplinary Optimization/ 55 (2017).
+
+-  [http://dx.doi.org/10.1016/j.jcp.2016.11.024 On an adaptive preconditioned Crank–Nicolson MCMC algorithm for infinite dimensional Bayesian inference] \n
+Z. Hu, Z. Yao and J. Li, \n
+/Journal of Computational Physics/  332 (2017).
+
+#- [http://dx.doi.org/10.1142/S0219493717500083 Efficient Particle Filtering for stochastic Korteweg de Vries Equations]\n
+#F. Bao, Y. Cao, X. Han and  J. Li, \n  /Stochastics and Dynamics/ 17 (2017).
+
+#- [http://dx.doi.org/10.1615/Int.J.UncertaintyQuantification.2016017305  A cross entropy method accelerated derivative free RBDO algorithm] \n
+# T. Gao and J. Li, \n
+#/International Journal for Uncertainty Quantification/ 6 (2016).
+
+- [http://dx.doi.org/10.1016/j.jcp.2016.06.020  A surrogate accelerated multicanonical Monte Carlo method for uncertainty quantification] \n
+K. Wu and J. Li, \n
+/Journal of Computational Physics/ 321 (2016).
+
+- [http://dx.doi.org/10.1088/0266-5611/32/7/075006  A TV Gaussian prior for infinite dimensional Bayesian inverse problems
+and its numerical implementations] \n
+Z. Yao, Z. Hu and J. Li, \n
+/Inverse Problems/ 32 (2016).
+
+- [http://dx.doi.org/10.1111/sapm.12122 A path based method for simulating large deviations and
+rare events in nonlinear lightwave systems] \n
+ J. Li and W.L. Kath,\n
+  /Studies in Applied Mathematics/ 136 (2016).
+
+-  [http://dx.doi.org/10.1016/j.jcp.2016.02.053  Gaussian process surrogates for failure detection:  a Bayesian 
+experimental design approach]\n H. Wang, G. Lin and J. Li, \n
+/Journal of Computational Physics/ 313 (2016).
+
+- [http://dx.doi.org/10.1016/j.spl.2015.06.025 A note on the Karhunen Loeve expansions for infinite dimensional Bayesian inverse problems]  \n J. Li, \n
+/Statistics and Probability Letters/ 106 (2015). 
+
+- [http://dx.doi.org/10.1016/j.jcp.2015.04.050 A frozen Gaussian approximation based multi level
+particle swarm optimization for seismic inversion]\n
+ J. Li, G. Lin and X. Yang, \n
+  /Journal of Computational Physics/ 296 (2015).
+
+#-  [http://dx.doi.org/10.3934/dcdsb.2015.20.1337 Error analysis for numerical implementation of particle filter] \n
+#X. Han, J. Li and D. Xiu,\n
+#/ Discrete and Continuous Dynamical Systems - series B/ 20 (2015).
+
+-  [http://dx.doi.org/10.1137/130938189 Adaptive construction of surrogates for the Bayesian solution of inverse problems]\n
+ J. Li and Y.M. Marzouk,\n
+ /SIAM Journal on Scientific Computing/ 36 (2014).
+
+-  [http://dx.doi.org/10.1137/110828289 Extracting solitons from noisy pulses] \n
+J. Li and W.L. Kath,\n
+/SIAM Journal on Applied Mathematics/ 72 (2012).
+
+-  [http://dx.doi.org/10.1016/j.jcp.2011.08.008 An efficient surrogate based method for computing rare failure probability] \n
+J. Li, J. Li and D. Xiu,\n
+/Journal of Computational Physics/ 230 (2011).
+
+- [http://dx.doi.org/10.1109/JLT.2010.2048890
+Outage statistics in the waveplate hinge model of polarization mode dispersion]\n
+J. Li, G. Biondini, W.L. Kath and H. Kogelnik, \n
+ /IEEE Journal of Lightwave Technology/ 28 (2010).
+
+# -  [http://www.global-sci.org/intro/article_detail/cicp/7686.html
+#On approximating strongly dispersion managed solitons]\n
+#J. Li, \n
+ #/Communications in Computational Physics./ 6 (2009).
+
+-  [http://dx.doi.org/10.1364/OL.33.001924
+Anisotropic hinge model for polarization.mode dispersion in installed fibers] \n
+J. Li, G. Biondini, W.L. Kath and H. Kogelnik,\n
+/Optics Letters/ 33 (2008).
+
+- [http://dx.doi.org/10.1109/JLT.2008.920133
+Noncompliant capacity ratio for systems with any numbers of polarization hinges] \n
+J. Li, G. Biondini, H. Kogelnik and P.J. Winzer,\n
+/IEEE Journal of Lightwave Technology/ 26 (2008).
+
+- [http://dx.doi.org/10.1103/PhysRevA.75.053818 Noise induced perturbations of dispersion managed solitons]\n
+ J. Li, E. Spiller and G. Biondini, \n
+  /Physical Review A/ 75 (2007).
+
+#=== conference proceedings
+#.  [https://www.osapublishing.org/abstract.cfm?uri=CLEO.2008.CThAA5
+#A Waveplate Hinge Model for PMD in Installed Fibers] \n
+#J. Li, G. Biondini, W.L. Kath and H. Kogelnik,\n
+#/CLEO/ (2008).
+
+#
+
+ #
